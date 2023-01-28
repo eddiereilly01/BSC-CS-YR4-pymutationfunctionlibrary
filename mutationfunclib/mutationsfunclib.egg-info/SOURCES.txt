@@ -1,0 +1,8 @@
+README.md
+setup.py
+mutationfunclib/__init__.py
+mutationfunclib/mutationfunclib.py
+mutationsfunclib.egg-info/PKG-INFO
+mutationsfunclib.egg-info/SOURCES.txt
+mutationsfunclib.egg-info/dependency_links.txt
+mutationsfunclib.egg-info/top_level.txt
