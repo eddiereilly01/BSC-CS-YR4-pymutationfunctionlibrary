@@ -3,7 +3,7 @@
 
 2. Clone the repository or download the source code
  
-       ``` git clone https://github.com/eddiereilly01/pymutationfunclib.git ```
+       ``` git clone https://github.com/eddiereilly01/pymutationfunctionlibrary.git ```
   
 3. Navigate to the root directory of the package
 
